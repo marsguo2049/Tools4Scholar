@@ -1,4 +1,4 @@
-# Tools4Scholar - 学术研究工具指南 Academic Research Tools Guide
+# Tools4Scholar - 学术研究工具指南 | Academic Research Tools Guide
 
 **面向学者的实用工具集合**  
 **Practical Tools Collection for Scholars**
